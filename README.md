@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntsilikos, a passionate self-teaching full stack web developement student that is also a senior in college!
-- 🔭 I’m currently working on completing the Odin project.
+- 🔭 I’m currently working on completing theodinproject.com.
 - 💞️ I’m looking to collaborate on anything that will assist my learning process.
 - 📫 How to reach me: ntsilikos@gmail.com
 
